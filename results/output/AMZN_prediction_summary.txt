@@ -1,0 +1,5 @@
+Average Accuracy: 98.4706694346833
+Best Stock: AMZN
+Worst Stock: AMZN
+Average RMSE: 2.401567931949857
+Average MAE: 1.830434963486651

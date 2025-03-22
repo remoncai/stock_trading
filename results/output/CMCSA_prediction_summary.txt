@@ -1,0 +1,5 @@
+Average Accuracy: 99.0006262981155
+Best Stock: CMCSA
+Worst Stock: CMCSA
+Average RMSE: 0.5806514389722499
+Average MAE: 0.4106902300308104

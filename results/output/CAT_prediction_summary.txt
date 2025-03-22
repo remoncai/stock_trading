@@ -1,0 +1,5 @@
+Average Accuracy: 98.60098569714482
+Best Stock: CAT
+Worst Stock: CAT
+Average RMSE: 4.730510146406983
+Average MAE: 3.468469256497363

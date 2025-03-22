@@ -1,0 +1,5 @@
+Average Accuracy: 99.05740927187617
+Best Stock: SBUX
+Worst Stock: SBUX
+Average RMSE: 1.3910772580463384
+Average MAE: 0.9509886473062482

@@ -1,0 +1,5 @@
+Average Accuracy: 98.70966405688895
+Best Stock: BKR
+Worst Stock: BKR
+Average RMSE: 0.5222343777298907
+Average MAE: 0.4104679341374071

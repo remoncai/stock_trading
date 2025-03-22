@@ -1,0 +1,5 @@
+Average Accuracy: 98.46024048601299
+Best Stock: SLB
+Worst Stock: SLB
+Average RMSE: 1.0767755464666573
+Average MAE: 0.8054453674050998

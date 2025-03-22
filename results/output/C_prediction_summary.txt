@@ -1,0 +1,5 @@
+Average Accuracy: 98.90601378255633
+Best Stock: C
+Worst Stock: C
+Average RMSE: 0.6914949320567713
+Average MAE: 0.5028572022404622

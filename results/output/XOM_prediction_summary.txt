@@ -1,0 +1,5 @@
+Average Accuracy: 98.77292205853799
+Best Stock: XOM
+Worst Stock: XOM
+Average RMSE: 1.7117548697107086
+Average MAE: 1.3353455189673729

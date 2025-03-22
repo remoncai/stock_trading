@@ -1,0 +1,5 @@
+Average Accuracy: 98.33663450751922
+Best Stock: NFLX
+Worst Stock: NFLX
+Average RMSE: 9.00226980816571
+Average MAE: 6.42568379256362

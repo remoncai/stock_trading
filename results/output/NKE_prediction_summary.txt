@@ -1,0 +1,5 @@
+Average Accuracy: 98.88314791566938
+Best Stock: NKE
+Worst Stock: NKE
+Average RMSE: 1.816311321555711
+Average MAE: 1.24768448549534

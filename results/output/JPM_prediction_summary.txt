@@ -1,0 +1,5 @@
+Average Accuracy: 99.07492469633723
+Best Stock: JPM
+Worst Stock: JPM
+Average RMSE: 1.7845364321043506
+Average MAE: 1.3135814014425942

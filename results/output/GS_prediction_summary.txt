@@ -1,0 +1,5 @@
+Average Accuracy: 98.61423496474052
+Best Stock: GS
+Worst Stock: GS
+Average RMSE: 6.269575140574297
+Average MAE: 4.665265711264548

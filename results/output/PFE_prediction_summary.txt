@@ -1,0 +1,5 @@
+Average Accuracy: 98.83529834955644
+Best Stock: PFE
+Worst Stock: PFE
+Average RMSE: 0.5465313566303797
+Average MAE: 0.41316262217652766

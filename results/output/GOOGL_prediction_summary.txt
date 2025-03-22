@@ -1,0 +1,5 @@
+Average Accuracy: 98.61815097760075
+Best Stock: GOOGL
+Worst Stock: GOOGL
+Average RMSE: 2.217901678380961
+Average MAE: 1.6142797329882672

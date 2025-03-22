@@ -1,0 +1,5 @@
+Average Accuracy: 99.03531580166391
+Best Stock: BMY
+Worst Stock: BMY
+Average RMSE: 0.7846534151171575
+Average MAE: 0.5923523306682418

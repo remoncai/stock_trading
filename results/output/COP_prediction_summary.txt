@@ -1,0 +1,5 @@
+Average Accuracy: 98.62715880810362
+Best Stock: COP
+Worst Stock: COP
+Average RMSE: 2.001583334745144
+Average MAE: 1.5135699456111527

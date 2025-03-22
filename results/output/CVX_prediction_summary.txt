@@ -1,0 +1,5 @@
+Average Accuracy: 98.87614355629516
+Best Stock: CVX
+Worst Stock: CVX
+Average RMSE: 2.3959751989959477
+Average MAE: 1.7947354188417288

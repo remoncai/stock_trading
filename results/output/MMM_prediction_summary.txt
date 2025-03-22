@@ -1,0 +1,5 @@
+Average Accuracy: 98.82595303050604
+Best Stock: MMM
+Worst Stock: MMM
+Average RMSE: 1.4159884232738245
+Average MAE: 1.0156598267704147
